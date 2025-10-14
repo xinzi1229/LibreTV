@@ -22,6 +22,10 @@ const SITE_CONFIG = {
 
 // API站点配置
 const API_SITES = {
+  
+   "http://hongniuzy2.com/api.php/provide/vod/from/hnm3u8",
+   "http://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
+   "http://api.1080zyku.com/inc/api.php/provide/vod",
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
